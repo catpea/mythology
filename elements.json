@@ -1,21 +1,138 @@
 {
   "nodes": [
-    { "data": { "id": "animism", "name": "Animism", "href": "https://duckduckgo.com/?t=ffab&q=w%21Animism" } },
-    { "data": { "id": "nostradic", "name": "nostradic", "href": "https://duckduckgo.com/?t=ffab&q=w%21nostradic" } },
-    { "data": { "id": "arabian-pantheism", "name": "Arabian Pantheism", "href": "https://duckduckgo.com/?t=ffab&q=w%21arabian+pantheism" } },
-    { "data": { "id": "mesopotamiam-polytheism", "name": "mesopotamiam-polytheism", "href": "https://duckduckgo.com/?t=ffab&q=w%21mesopotamiam+polytheism" } },
-    { "data": { "id": "cananine-polytheism", "name": "Cananine Polytheism", "href": "https://duckduckgo.com/?t=ffab&q=w%21Cananine+Polytheism" } },
-    { "data": { "id": "judaism", "name": "Judaism", "href": "https://duckduckgo.com/?t=ffab&q=w%21Judaism" } },
-    { "data": { "id": "christianity", "name": "Christianity", "href": "https://duckduckgo.com/?t=ffab&q=w%21christianity" } },
-    { "data": { "id": "islam", "name": "Islam", "href": "https://duckduckgo.com/?t=ffab&q=w%21islam" } }
+    { "data": { "id": "root", "name": "Religion", "href": "https://en.wikipedia.org/wiki/Religion" } },
+
+    { "data": { "id": "animism", "name": "Animism", "href": "https://en.wikipedia.org/wiki/Animism" } },
+    { "data": { "id": "shamanism", "name": "Shamanism", "href": "https://en.wikipedia.org/wiki/Shamanism" } },
+    { "data": { "id": "ancestor-worship", "name": "Ancestor Worship", "href": "https://en.wikipedia.org/wiki/Ancestor_veneration" } },
+
+    { "data": { "id": "indo-european", "name": "Proto-Indo-European Religion", "href": "https://en.wikipedia.org/wiki/Proto-Indo-European_mythology" } },
+    { "data": { "id": "vedic", "name": "Vedic Religion", "href": "https://en.wikipedia.org/wiki/Historical_Vedic_religion" } },
+    { "data": { "id": "hinduism", "name": "Hinduism", "href": "https://en.wikipedia.org/wiki/Hinduism" } },
+    { "data": { "id": "buddhism", "name": "Buddhism", "href": "https://en.wikipedia.org/wiki/Buddhism" } },
+    { "data": { "id": "jainism", "name": "Jainism", "href": "https://en.wikipedia.org/wiki/Jainism" } },
+    { "data": { "id": "sikhism", "name": "Sikhism", "href": "https://en.wikipedia.org/wiki/Sikhism" } },
+
+    { "data": { "id": "theravada", "name": "Theravada Buddhism", "href": "https://en.wikipedia.org/wiki/Theravada" } },
+    { "data": { "id": "mahayana", "name": "Mahayana Buddhism", "href": "https://en.wikipedia.org/wiki/Mahayana" } },
+    { "data": { "id": "vajrayana", "name": "Vajrayana Buddhism", "href": "https://en.wikipedia.org/wiki/Vajrayana" } },
+    { "data": { "id": "zen", "name": "Zen Buddhism", "href": "https://en.wikipedia.org/wiki/Zen" } },
+
+    { "data": { "id": "mesopotamian", "name": "Mesopotamian Religion", "href": "https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion" } },
+    { "data": { "id": "egyptian", "name": "Ancient Egyptian Religion", "href": "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion" } },
+    { "data": { "id": "canaanite", "name": "Canaanite Religion", "href": "https://en.wikipedia.org/wiki/Canaanite_religion" } },
+
+    { "data": { "id": "judaism", "name": "Judaism", "href": "https://en.wikipedia.org/wiki/Judaism" } },
+    { "data": { "id": "orthodox-judaism", "name": "Orthodox Judaism", "href": "https://en.wikipedia.org/wiki/Orthodox_Judaism" } },
+    { "data": { "id": "conservative-judaism", "name": "Conservative Judaism", "href": "https://en.wikipedia.org/wiki/Conservative_Judaism" } },
+    { "data": { "id": "reform-judaism", "name": "Reform Judaism", "href": "https://en.wikipedia.org/wiki/Reform_Judaism" } },
+
+    { "data": { "id": "christianity", "name": "Christianity", "href": "https://en.wikipedia.org/wiki/Christianity" } },
+    { "data": { "id": "catholicism", "name": "Roman Catholicism", "href": "https://en.wikipedia.org/wiki/Catholic_Church" } },
+    { "data": { "id": "orthodoxy", "name": "Eastern Orthodoxy", "href": "https://en.wikipedia.org/wiki/Eastern_Orthodox_Church" } },
+    { "data": { "id": "protestantism", "name": "Protestantism", "href": "https://en.wikipedia.org/wiki/Protestantism" } },
+    { "data": { "id": "lutheranism", "name": "Lutheranism", "href": "https://en.wikipedia.org/wiki/Lutheranism" } },
+    { "data": { "id": "calvinism", "name": "Calvinism", "href": "https://en.wikipedia.org/wiki/Calvinism" } },
+    { "data": { "id": "anglicanism", "name": "Anglicanism", "href": "https://en.wikipedia.org/wiki/Anglicanism" } },
+    { "data": { "id": "baptist", "name": "Baptist", "href": "https://en.wikipedia.org/wiki/Baptists" } },
+    { "data": { "id": "methodism", "name": "Methodism", "href": "https://en.wikipedia.org/wiki/Methodism" } },
+    { "data": { "id": "pentecostalism", "name": "Pentecostalism", "href": "https://en.wikipedia.org/wiki/Pentecostalism" } },
+
+    { "data": { "id": "islam", "name": "Islam", "href": "https://en.wikipedia.org/wiki/Islam" } },
+    { "data": { "id": "sunni", "name": "Sunni Islam", "href": "https://en.wikipedia.org/wiki/Sunni_Islam" } },
+    { "data": { "id": "shia", "name": "Shia Islam", "href": "https://en.wikipedia.org/wiki/Shia_Islam" } },
+    { "data": { "id": "sufism", "name": "Sufism", "href": "https://en.wikipedia.org/wiki/Sufism" } },
+
+    { "data": { "id": "zoroastrianism", "name": "Zoroastrianism", "href": "https://en.wikipedia.org/wiki/Zoroastrianism" } },
+
+    { "data": { "id": "chinese-folk", "name": "Chinese Folk Religion", "href": "https://en.wikipedia.org/wiki/Chinese_folk_religion" } },
+    { "data": { "id": "confucianism", "name": "Confucianism", "href": "https://en.wikipedia.org/wiki/Confucianism" } },
+    { "data": { "id": "taoism", "name": "Taoism", "href": "https://en.wikipedia.org/wiki/Taoism" } },
+
+    { "data": { "id": "shinto", "name": "Shinto", "href": "https://en.wikipedia.org/wiki/Shinto" } },
+
+    { "data": { "id": "greek-polytheism", "name": "Greek Polytheism", "href": "https://en.wikipedia.org/wiki/Ancient_Greek_religion" } },
+    { "data": { "id": "roman-polytheism", "name": "Roman Polytheism", "href": "https://en.wikipedia.org/wiki/Religion_in_ancient_Rome" } },
+    { "data": { "id": "norse-polytheism", "name": "Norse Polytheism", "href": "https://en.wikipedia.org/wiki/Old_Norse_religion" } },
+    { "data": { "id": "celtic-polytheism", "name": "Celtic Polytheism", "href": "https://en.wikipedia.org/wiki/Celtic_polytheism" } },
+
+    { "data": { "id": "native-american", "name": "Native American Religions", "href": "https://en.wikipedia.org/wiki/Native_American_religion" } },
+    { "data": { "id": "african-traditional", "name": "African Traditional Religions", "href": "https://en.wikipedia.org/wiki/Traditional_African_religions" } },
+    { "data": { "id": "australian-aboriginal", "name": "Australian Aboriginal Religion", "href": "https://en.wikipedia.org/wiki/Australian_Aboriginal_religion_and_mythology" } },
+
+    { "data": { "id": "mormonism", "name": "Mormonism", "href": "https://en.wikipedia.org/wiki/Mormonism" } },
+    { "data": { "id": "jehovahs-witnesses", "name": "Jehovah's Witnesses", "href": "https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses" } },
+    { "data": { "id": "seventh-day-adventist", "name": "Seventh-day Adventist", "href": "https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church" } },
+
+    { "data": { "id": "unitarian", "name": "Unitarianism", "href": "https://en.wikipedia.org/wiki/Unitarianism" } },
+    { "data": { "id": "deism", "name": "Deism", "href": "https://en.wikipedia.org/wiki/Deism" } }
   ],
+
   "edges": [
-    { "data": { "source": "animism", "target": "nostradic" } },
-    { "data": { "source": "nostradic", "target": "arabian-pantheism" } },
-    { "data": { "source": "arabian-pantheism", "target": "mesopotamiam-polytheism" } },
-    { "data": { "source": "mesopotamiam-polytheism", "target": "cananine-polytheism" } },
-    { "data": { "source": "cananine-polytheism", "target": "judaism" } },
+    { "data": { "source": "root", "target": "animism" } },
+    { "data": { "source": "root", "target": "shamanism" } },
+    { "data": { "source": "root", "target": "ancestor-worship" } },
+
+    { "data": { "source": "root", "target": "indo-european" } },
+    { "data": { "source": "indo-european", "target": "vedic" } },
+    { "data": { "source": "vedic", "target": "hinduism" } },
+    { "data": { "source": "hinduism", "target": "jainism" } },
+    { "data": { "source": "hinduism", "target": "sikhism" } },
+
+    { "data": { "source": "hinduism", "target": "buddhism" } },
+
+    { "data": { "source": "buddhism", "target": "theravada" } },
+    { "data": { "source": "buddhism", "target": "mahayana" } },
+    { "data": { "source": "mahayana", "target": "vajrayana" } },
+    { "data": { "source": "mahayana", "target": "zen" } },
+
+    { "data": { "source": "root", "target": "mesopotamian" } },
+    { "data": { "source": "root", "target": "egyptian" } },
+    { "data": { "source": "mesopotamian", "target": "canaanite" } },
+
+    { "data": { "source": "canaanite", "target": "judaism" } },
+    { "data": { "source": "judaism", "target": "orthodox-judaism" } },
+    { "data": { "source": "judaism", "target": "conservative-judaism" } },
+    { "data": { "source": "judaism", "target": "reform-judaism" } },
+
     { "data": { "source": "judaism", "target": "christianity" } },
-    { "data": { "source": "judaism", "target": "islam" } }
+    { "data": { "source": "christianity", "target": "catholicism" } },
+    { "data": { "source": "christianity", "target": "orthodoxy" } },
+    { "data": { "source": "christianity", "target": "protestantism" } },
+    { "data": { "source": "protestantism", "target": "lutheranism" } },
+    { "data": { "source": "protestantism", "target": "calvinism" } },
+    { "data": { "source": "protestantism", "target": "anglicanism" } },
+    { "data": { "source": "protestantism", "target": "baptist" } },
+    { "data": { "source": "anglicanism", "target": "methodism" } },
+    { "data": { "source": "protestantism", "target": "pentecostalism" } },
+
+    { "data": { "source": "christianity", "target": "mormonism" } },
+    { "data": { "source": "christianity", "target": "jehovahs-witnesses" } },
+    { "data": { "source": "protestantism", "target": "seventh-day-adventist" } },
+
+    { "data": { "source": "judaism", "target": "islam" } },
+    { "data": { "source": "islam", "target": "sunni" } },
+    { "data": { "source": "islam", "target": "shia" } },
+    { "data": { "source": "islam", "target": "sufism" } },
+
+    { "data": { "source": "indo-european", "target": "zoroastrianism" } },
+
+    { "data": { "source": "root", "target": "chinese-folk" } },
+    { "data": { "source": "chinese-folk", "target": "confucianism" } },
+    { "data": { "source": "chinese-folk", "target": "taoism" } },
+
+    { "data": { "source": "root", "target": "shinto" } },
+
+    { "data": { "source": "indo-european", "target": "greek-polytheism" } },
+    { "data": { "source": "greek-polytheism", "target": "roman-polytheism" } },
+    { "data": { "source": "indo-european", "target": "norse-polytheism" } },
+    { "data": { "source": "indo-european", "target": "celtic-polytheism" } },
+
+    { "data": { "source": "shamanism", "target": "native-american" } },
+    { "data": { "source": "animism", "target": "african-traditional" } },
+    { "data": { "source": "animism", "target": "australian-aboriginal" } },
+
+    { "data": { "source": "christianity", "target": "unitarian" } },
+    { "data": { "source": "christianity", "target": "deism" } }
   ]
 }
