@@ -1,7 +1,7 @@
 {
   "name": "mythology",
   "description": "mythology",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "index.html",
   "scripts": {
@@ -23,5 +23,4 @@
     "url": "https://github.com/catpea/mythology/issues"
   },
   "homepage": "https://github.com/catpea/mythology#readme"
-
 }
