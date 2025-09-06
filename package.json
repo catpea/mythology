@@ -1,0 +1,27 @@
+{
+  "name": "mythology",
+  "description": "mythology",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server -c-1 -o .",
+    "start": "http-server -c-1 -o .",
+    "build": "echo 'No build step required for this static project'",
+    "save": "git add . && git commit -m 'Updated Release' && npm version patch && npm publish && git push --follow-tags"
+  },
+  "keywords": [
+    "mythology"
+  ],
+  "author": "@catpea",
+  "license": "GPL",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/catpea/mythology.git"
+  },
+  "bugs": {
+    "url": "https://github.com/catpea/mythology/issues"
+  },
+  "homepage": "https://github.com/catpea/mythology#readme"
+
+}

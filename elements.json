@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    { "data": { "id": "animism", "name": "Animism", "href": "https://duckduckgo.com/?t=ffab&q=w%21Animism" } },
+    { "data": { "id": "nostradic", "name": "nostradic", "href": "https://duckduckgo.com/?t=ffab&q=w%21nostradic" } },
+    { "data": { "id": "arabian-pantheism", "name": "Arabian Pantheism", "href": "https://duckduckgo.com/?t=ffab&q=w%21arabian+pantheism" } },
+    { "data": { "id": "mesopotamiam-polytheism", "name": "mesopotamiam-polytheism", "href": "https://duckduckgo.com/?t=ffab&q=w%21mesopotamiam+polytheism" } },
+    { "data": { "id": "cananine-polytheism", "name": "Cananine Polytheism", "href": "https://duckduckgo.com/?t=ffab&q=w%21Cananine+Polytheism" } },
+    { "data": { "id": "judaism", "name": "Judaism", "href": "https://duckduckgo.com/?t=ffab&q=w%21Judaism" } },
+    { "data": { "id": "christianity", "name": "Christianity", "href": "https://duckduckgo.com/?t=ffab&q=w%21christianity" } },
+    { "data": { "id": "islam", "name": "Islam", "href": "https://duckduckgo.com/?t=ffab&q=w%21islam" } }
+  ],
+  "edges": [
+    { "data": { "source": "animism", "target": "nostradic" } },
+    { "data": { "source": "nostradic", "target": "arabian-pantheism" } },
+    { "data": { "source": "arabian-pantheism", "target": "mesopotamiam-polytheism" } },
+    { "data": { "source": "mesopotamiam-polytheism", "target": "cananine-polytheism" } },
+    { "data": { "source": "cananine-polytheism", "target": "judaism" } },
+    { "data": { "source": "judaism", "target": "christianity" } },
+    { "data": { "source": "judaism", "target": "islam" } }
+  ]
+}
